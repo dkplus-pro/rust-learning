@@ -41,7 +41,7 @@ cargo run -p lesson_01_foundation
 | [Lesson 05](lessons/05-errors-modules/README.md) | 模块、错误处理与边界设计 | 用配置解析器学习 mod/pub、Result、?、自定义错误类型，把工程边界从一开始写清楚。 | ✅ 已完成 |
 | [Lesson 06](lessons/06-traits-generics-lifetimes/README.md) | Trait、泛型与生命周期 | 用 dashboard 组件模型理解 trait 抽象、泛型复用、生命周期标注，连接到前端组件和 hooks 设计经验。 | ✅ 已完成 |
 | [Lesson 07](lessons/07-concurrency/README.md) | 并发、线程与消息传递 | 用前端构建任务模拟学习 thread、mpsc channel、move closure，理解 Rust 的无数据竞争并发。 | ✅ 已完成 |
-| Lesson 08 | 架构实战：迷你响应式 Store | 综合所有权、枚举、trait object、状态机和迭代器，实现一个类似 Redux/Pinia 的极简 store。 | 📝 规划中 |
+| [Lesson 08](lessons/08-architecture-capstone/README.md) | 架构实战：迷你响应式 Store | 综合所有权、枚举、trait object、状态机和迭代器，实现一个类似 Redux/Pinia 的极简 store。 | ✅ 已完成 |
 
 ## 已完成课程运行命令
 
@@ -53,6 +53,7 @@ cargo run -p lesson_04_collections_iterators  # Lesson 04
 cargo run -p lesson_05_errors_modules  # Lesson 05
 cargo run -p lesson_06_traits_generics_lifetimes  # Lesson 06
 cargo run -p lesson_07_concurrency  # Lesson 07
+cargo run -p lesson_08_architecture_capstone  # Lesson 08
 ```
 
 也可以使用脚本：

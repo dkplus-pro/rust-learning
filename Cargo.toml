@@ -8,6 +8,7 @@ members = [
     "lessons/05-errors-modules",
     "lessons/06-traits-generics-lifetimes",
     "lessons/07-concurrency",
+    "lessons/08-architecture-capstone",
 ]
 
 [workspace.package]
