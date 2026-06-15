@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "lesson_02_ownership_borrowing"
 version = "0.1.0"
+
+[[package]]
+name = "lesson_03_struct_enum_pattern"
+version = "0.1.0"

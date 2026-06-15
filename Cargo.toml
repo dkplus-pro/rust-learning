@@ -3,6 +3,7 @@ resolver = "2"
 members = [
     "lessons/01-foundation",
     "lessons/02-ownership-borrowing",
+    "lessons/03-struct-enum-pattern",
 ]
 
 [workspace.package]
