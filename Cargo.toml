@@ -6,6 +6,7 @@ members = [
     "lessons/03-struct-enum-pattern",
     "lessons/04-collections-iterators",
     "lessons/05-errors-modules",
+    "lessons/06-traits-generics-lifetimes",
 ]
 
 [workspace.package]
