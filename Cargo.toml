@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "lessons/01-foundation",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["dk <dkplus.js@gmail.com>"]
+license = "MIT"
