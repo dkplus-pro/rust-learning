@@ -25,3 +25,7 @@ version = "0.1.0"
 [[package]]
 name = "lesson_06_traits_generics_lifetimes"
 version = "0.1.0"
+
+[[package]]
+name = "lesson_07_concurrency"
+version = "0.1.0"

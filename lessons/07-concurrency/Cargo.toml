@@ -1,0 +1,8 @@
+[package]
+name = "lesson_07_concurrency"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
