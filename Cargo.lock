@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "lesson_01_foundation"
 version = "0.1.0"
+
+[[package]]
+name = "lesson_02_ownership_borrowing"
+version = "0.1.0"

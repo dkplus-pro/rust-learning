@@ -35,7 +35,7 @@ cargo run -p lesson_01_foundation
 | 课程 | 主题 | 你会得到什么 | 状态 |
 | --- | --- | --- | --- |
 | [Lesson 01](lessons/01-foundation/README.md) | 从零开始：环境、Cargo、变量、类型与控制流 | 把 Rust 当作一门强类型系统语言重新开始：理解 Cargo、不可变默认、基础类型、函数、if/match/for。 | ✅ 已完成 |
-| Lesson 02 | 所有权、借用与可变引用 | 用前端数据流类比理解 move、borrow、clone、&mut，避免把 Rust 当成带类型的 JS。 | 📝 规划中 |
+| [Lesson 02](lessons/02-ownership-borrowing/README.md) | 所有权、借用与可变引用 | 用前端数据流类比理解 move、borrow、clone、&mut，避免把 Rust 当成带类型的 JS。 | ✅ 已完成 |
 | Lesson 03 | 结构体、枚举、Option/Result 与模式匹配 | 用任务状态机学习 Rust 建模方式：struct 表达数据，enum 表达状态和命令，Result 表达可恢复错误。 | 📝 规划中 |
 | Lesson 04 | 集合、迭代器与数据处理管道 | 用页面访问日志分析学习 Vec、HashMap、iter/filter/map/fold，建立 Rust 版数据流思维。 | 📝 规划中 |
 | Lesson 05 | 模块、错误处理与边界设计 | 用配置解析器学习 mod/pub、Result、?、自定义错误类型，把工程边界从一开始写清楚。 | 📝 规划中 |
@@ -47,6 +47,7 @@ cargo run -p lesson_01_foundation
 
 ```bash
 cargo run -p lesson_01_foundation  # Lesson 01
+cargo run -p lesson_02_ownership_borrowing  # Lesson 02
 ```
 
 也可以使用脚本：
