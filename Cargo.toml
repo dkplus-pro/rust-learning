@@ -5,6 +5,7 @@ members = [
     "lessons/02-ownership-borrowing",
     "lessons/03-struct-enum-pattern",
     "lessons/04-collections-iterators",
+    "lessons/05-errors-modules",
 ]
 
 [workspace.package]

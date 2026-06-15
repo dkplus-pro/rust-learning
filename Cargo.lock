@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "lesson_04_collections_iterators"
 version = "0.1.0"
+
+[[package]]
+name = "lesson_05_errors_modules"
+version = "0.1.0"
