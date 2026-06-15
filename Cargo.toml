@@ -4,6 +4,7 @@ members = [
     "lessons/01-foundation",
     "lessons/02-ownership-borrowing",
     "lessons/03-struct-enum-pattern",
+    "lessons/04-collections-iterators",
 ]
 
 [workspace.package]
